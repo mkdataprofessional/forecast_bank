@@ -28,7 +28,7 @@ This notebook contains the following key analyses:
 - **Individual KPI Analysis**: Detailed assessment for a selected employee.
 
 ### **Additional Materials**
-- **PowerPoint Presentation (`forecast_bank_presentation.pptx`)**:
+- **PowerPoint Presentation (`scorecard & next steps.pptx`)**:
   - **Model Scorecard Report**: Performance metrics for the model employee.
   - **Future Development Suggestions**: Proposed enhancements to the project.
 
